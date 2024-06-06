@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: indonesian and english
 -->
 
-
-- 📫 How to reach me:
+- 📫 How to reach me: <br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamad-iskhak123/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/iskhak.muhamad_/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+6289630896003)
 
 ## My GitHub Stats
 
