@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on application associate developer as fullstack enggineer
-- 😄 Pronouns: indonesian and english
+ 🔭 I’m currently working on application associate developer as fullstack enggineer
+ 😄 Pronouns: indonesian and english
 -->
 
 - 📫 How to reach me: <br/>
