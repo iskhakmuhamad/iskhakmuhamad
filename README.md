@@ -13,9 +13,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/iskhak.muhamad_/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+6289630896003)
 
-## My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iskhakmuhamad&show_icons=true&theme=dark)
 
 ## Most Used Languages
 
