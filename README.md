@@ -5,7 +5,7 @@
 
 -->
 
- - 🔭 I’m currently working on it consultant company as fullstack engineer
+ - 🔭 I’m currently working on IT consultant company as fullstack engineer
  - 😄 Pronouns: indonesian and english
  
 - 📫 How to reach me: <br/>
